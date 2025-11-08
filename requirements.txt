@@ -1,4 +1,3 @@
-cat > requirements.txt << 'EOF'
 asgiref==3.10.0
 Django==5.2.8
 django-cors-headers==4.9.0
